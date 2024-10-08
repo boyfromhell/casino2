@@ -40,7 +40,7 @@
 
     </div>
 
-    @include('backend.includes.scripts')
+    <!-- @include('backend.includes.scripts') -->
 
 </body>
 </html>

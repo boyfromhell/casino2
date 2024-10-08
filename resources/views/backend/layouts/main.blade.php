@@ -36,7 +36,7 @@
 
         </div>
 
-        @include('backend.includes.footer')
+        <!--@include('backend.includes.footer') -->
 
     </div>
 
